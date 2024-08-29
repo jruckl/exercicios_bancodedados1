@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Página-1" id="FnEpoIWWNQxLYMlEQwRX">
-    <mxGraphModel dx="1035" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         <mxCell id="gs8JJX1vfFZVjYpK_IIe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gs8JJX1vfFZVjYpK_IIe-29" target="gs8JJX1vfFZVjYpK_IIe-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gs8JJX1vfFZVjYpK_IIe-29" value="Número" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gs8JJX1vfFZVjYpK_IIe-29" value="Código" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="23" y="305" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gs8JJX1vfFZVjYpK_IIe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gs8JJX1vfFZVjYpK_IIe-31" target="gs8JJX1vfFZVjYpK_IIe-1">
@@ -93,14 +93,20 @@
         <mxCell id="gs8JJX1vfFZVjYpK_IIe-40" value="Nome do curso" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="650" y="75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gs8JJX1vfFZVjYpK_IIe-42" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="305" width="90" height="30" as="geometry" />
+        <mxCell id="gs8JJX1vfFZVjYpK_IIe-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gs8JJX1vfFZVjYpK_IIe-42" target="gs8JJX1vfFZVjYpK_IIe-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gs8JJX1vfFZVjYpK_IIe-43" value="Carga horária" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="90" height="30" as="geometry" />
+        <mxCell id="gs8JJX1vfFZVjYpK_IIe-42" value="Nome" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="369" y="280" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gs8JJX1vfFZVjYpK_IIe-44" value="Nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="425" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gs8JJX1vfFZVjYpK_IIe-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gs8JJX1vfFZVjYpK_IIe-52" target="gs8JJX1vfFZVjYpK_IIe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gs8JJX1vfFZVjYpK_IIe-52" value="Carga horária" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="330" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
